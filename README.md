@@ -1,1 +1,1 @@
-# SQL_Advent_Calendar_2024
+# SQL_Advent_Calendar_2024 challenge
